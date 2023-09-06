@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lathil! <br/><a href="https://github.com/lathilm">Risk Manager</a>, <a href="https://www.linkedin.com/in/lathil/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Lathil! <br/><a href="https://github.com/lathilm">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/lathil/">Risk Manager</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
